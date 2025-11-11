@@ -40,7 +40,7 @@ In `_config.yml`, you can modify personal info such as your *photo, phone number
 profile_img: assets/img/profile.webp
 icon_img: assets/img/icon.webp
 
-name: "Your Name Here"
+name: "Krisina Morreale"
 job: "〈Your Job Here〉"
 
 phone_number: 012-345-6789
