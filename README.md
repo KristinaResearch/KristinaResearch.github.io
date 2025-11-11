@@ -40,8 +40,8 @@ In `_config.yml`, you can modify personal info such as your *photo, phone number
 profile_img: assets/img/profile.webp
 icon_img: assets/img/icon.webp
 
-name: "Your name here"
-job: "〈Your Job Here〉"
+name: "Kristina Morreale"
+job: "Clinical Research Coordinator III"
 
 phone_number: 012-345-6789
 address: City, Country
@@ -178,3 +178,4 @@ If you would like to report a bug or request a new feature, please open [an issu
 
 ## License
 © 2024 *Yankos*. This theme is available as open source under the terms of the [MIT License](https://opensource.org/license/mit/).
+
