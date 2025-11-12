@@ -4,10 +4,11 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: 
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
+      - Independent MRI exploratory analysis
+      - Performed all aspects of project and presented virtually at AAIC
+      - https://youtu.be/97CphAGynGg
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+
   - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
     description: 
       - Universal Command Line Interface for Amazone Web Services
