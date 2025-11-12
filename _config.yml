@@ -4,7 +4,7 @@ icon_img: "/assets/img/icon.webp"
 
 name: "Kristina Morreale"
 job: "Clinical Research Coordinator III"
-current_affiliations: "UMass Medical School & Regis College"
+- title: "UMass Medical School & Regis College"
 
 contents:
   - title: "About Me"
