@@ -8,8 +8,7 @@ description: Functional Magnetic Resonance Imaging (fMRI)
 description: Electroencephalography (EEG) 
 description: Ophthalmic imaging modalities (e.g. OCTs, fundus)
 
-contents:
-  - title: NEUROPSYCHOLOGICAL ASSESSMENTS
+-title: NEUROPSYCHOLOGICAL ASSESSMENTS
 description: Snellen eye chart
 description: Ohio state university positive and negative affect schedule PANAS
 description: Test of memory malingering TOMM
@@ -46,21 +45,20 @@ description: Perceptions of Inclusion Questionnaire
 description: Activities of daily living
 description: Functional Activities Questionnaire
 
-contents:
-  - title: Professional Skills
-    description: Active Listening- Demonstrates strong active listening skills in research and care sessions
-    description: Communication and Writing- Exhibits strong verbal and written communication skills
-    description: Proficient in manuscript preparation
-    description: Relationship Building- Builds relationships with clients and co-workers
-    description: Team player that is focused on project success and team understanding
-    description: Interdisciplinary Team Collaboration- Collaborated effectively with interdisciplinary professionals (neurologists, neuropsychologists, clinical psychologists, care-team, and social workers
-    description: Trauma-informed Care-Provides support to individuals with a history of trauma (including but not limited to Veterans)
-    description: Care Coordination- Coordinates care for comprehensive client support, Veteran referrals in MCI
-    description: Ethical Practice- Adheres to ethical guidelines within research and clinical settings
-    description: Data Analysis- [1] Conducts data analysis using excel, SPSS and R [2]Create graphs, charts, tables, data cleaning, and receiver operating characteristics for manuscript and presentations
-    description: Professional Development- Actively presents at academic and national conferences
-    description: Medical Chart Familiarity- [1]Reviews medical charts, reviews neuropsychological testing notes, and upcoming appointments; [2]Maintains patient confidentiality
-    description:  Administers and scores neuropsychological assessments for clinical and research use
+-title: Professional Skills
+description: Active Listening- Demonstrates strong active listening skills in research and care sessions
+description: Communication and Writing- Exhibits strong verbal and written communication skills
+description: Proficient in manuscript preparation
+description: Relationship Building- Builds relationships with clients and co-workers
+description: Team player that is focused on project success and team understanding
+description: Interdisciplinary Team Collaboration- Collaborated effectively with interdisciplinary professionals (neurologists, neuropsychologists, clinical psychologists, care-team, and social workers
+description: Trauma-informed Care-Provides support to individuals with a history of trauma (including but not limited to Veterans)
+description: Care Coordination- Coordinates care for comprehensive client support, Veteran referrals in MCI
+description: Ethical Practice- Adheres to ethical guidelines within research and clinical settings
+description: Data Analysis- [1] Conducts data analysis using excel, SPSS and R [2]Create graphs, charts, tables, data cleaning, and receiver operating characteristics for manuscript and presentations [3] knows coding relitavly well (at least enough to make this website!)
+description: Professional Development- Actively presents at academic and national conferences
+description: Medical Chart Familiarity- [1]Reviews medical charts, reviews neuropsychological testing notes, and upcoming appointments; [2]Maintains patient confidentiality
+description: Administers and scores neuropsychological assessments for clinical and research use
 
 
 
