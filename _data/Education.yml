@@ -2,10 +2,12 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
+  - title: Regis College, MA in Counsleing
+    date: Aug 2024 - present
+    
   - title: Univeristy of New Haven, BA in Psychology
     description:
       - Major Psychology with concentration in Community Clinical Psychology
       - Minors [1] Criminal Justice, [2] Sociology
     date: Aug 2018 - Dec 2021
-  - title: Regis College, MA in Counsleing
-    date: Aug 2024 - present
+
