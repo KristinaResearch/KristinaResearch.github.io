@@ -1,6 +1,7 @@
 subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
+
 contents:
   - title: Self-directed projects
     description: Independent MRI exploratory analysis. Performed all aspects of project and presented virtually at AAIC "https://youtu.be/97CphAGynGg"
