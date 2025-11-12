@@ -2,7 +2,12 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-description:  Administers and scores neuropsychological assessments for clinical and research use
+-title: IMAGING MODALITIES
+
+description: Functional Magnetic Resonance Imaging (fMRI) 
+description: Electroencephalography (EEG) 
+description: Ophthalmic imaging modalities (e.g. OCTs, fundus)
+
 contents:
   - title: NEUROPSYCHOLOGICAL ASSESSMENTS
 description: Snellen eye chart
@@ -55,10 +60,7 @@ contents:
     description: Data Analysis- [1] Conducts data analysis using excel, SPSS and R [2]Create graphs, charts, tables, data cleaning, and receiver operating characteristics for manuscript and presentations
     description: Professional Development- Actively presents at academic and national conferences
     description: Medical Chart Familiarity- [1]Reviews medical charts, reviews neuropsychological testing notes, and upcoming appointments; [2]Maintains patient confidentiality
-    description: Neuropsychological Assessments
+    description:  Administers and scores neuropsychological assessments for clinical and research use
 
--title: Imaging Modalities
 
-description: Functional Magnetic Resonance Imaging (fMRI) 
-description: Electroencephalography (EEG) 
-description: Ophthalmic imaging modalities (e.g. OCTs, fundus)
+
