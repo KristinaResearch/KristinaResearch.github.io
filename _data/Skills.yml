@@ -1,64 +1,64 @@
 subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
+
 contents:
--title: IMAGING MODALITIES
+  - title: IMAGING MODALITIES
+    description:
+      - Functional Magnetic Resonance Imaging (fMRI)
+      - Electroencephalography (EEG)
+      - Ophthalmic imaging modalities (e.g. OCTs, fundus)
 
-description: Functional Magnetic Resonance Imaging (fMRI) 
-description: Electroencephalography (EEG) 
-description: Ophthalmic imaging modalities (e.g. OCTs, fundus)
+  - title: NEUROPSYCHOLOGICAL ASSESSMENTS
+    description:
+      - Snellen eye chart
+      - Ohio State University Positive and Negative Affect Schedule (PANAS)
+      - Test of Memory Malingering (TOMM)
+      - Mini Mental Status Exam (MMSE)
+      - CERAD Word List Memory Form (CERAD)
+      - Trail Making
+      - Verbal Fluency (FAS)
+      - Category Fluency
+      - Boston Naming Test (BNT)
+      - Word Association (WTAR)
+      - Judgement of Line Orientation (JOLO)
+      - Ohio State University TBI Identification Method / Neurobehavioral Symptom Inventory (NSI)
+      - Pittsburgh Sleep Quality Index / PTSD Checklist for DSM-5 (PCL-5) with Criterion A / Beck Depression Inventory (BDI)
+      - Beck Anxiety Inventory (BAI)
+      - Short Michigan Alcohol Screening Test (SMAST)
+      - Geriatric Anxiety Inventory (GAI)
+      - Geriatric Depression Scale (GDS)
+      - Montreal Cognitive Assessment (MOCA)
+      - Wide Range Achievement Test 4th Edition (WRAT-4)
+      - Craft Story 21 (recall & delayed recall)
+      - Benson Complex Figure
+      - Uniform Data Set Number Span Test
+      - Multilingual Naming Test (MINT)
+      - Neuropsychological Assessment Battery (NAB)
+      - Symbol Digit Modalities
+      - Questionnaires
+      - Family History
+      - Medical History
+      - Health History
+      - Perceptions of Inclusion Questionnaire
+      - Activities of Daily Living
+      - Functional Activities Questionnaire
 
--title: NEUROPSYCHOLOGICAL ASSESSMENTS
-description: Snellen eye chart
-description: Ohio state university positive and negative affect schedule PANAS
-description: Test of memory malingering TOMM
-description: Mini mental status exam MMSE
-description: CERAD Word list memory form CERAD
-description: Trail making
-description: Verbal fluency FAS
-description: Category fluency
-description: Boston naming test BNT
-description: Word association WTAR
-description: Judgement of line orientation JOLO
-description: Ohio state university TBI identification method interview form Neurobehavioral symptom inventory NSI
-description: The Pittsburgh Sleep Quality index PTSD Checklist for DMS-5 (PCL-5) with criterion A Beck's depression inventory BDI
-description: Beck Anxiety Inventory BAI
-description: Short Michigan Alcohol screening test OU-TBI
-description: PSQI
-description: PCL-5
-description: SMAST
-description: Geriatric anxiety inventory GAI
-description: Geriatric depression scale GDS
-description: Montreal Cognitive Assessment MOCA
-description: Wide range achievement test 4th edition reading test WRAT-4
-description: Craft story 21 (recall & delayed recall)
-description: Benson complex figure
-description: Uniform data set number span test
-description: Multilingual naming test MINT
-description: Neuropsychological assessment battery NAB
-description: Symbol digit modalities
-description: Questionnaires
-description: Family history
-description: Medical history
-description: Health history
-description: Perceptions of Inclusion Questionnaire
-description: Activities of daily living
-description: Functional Activities Questionnaire
-
--title: Professional Skills
-description: Active Listening- Demonstrates strong active listening skills in research and care sessions
-description: Communication and Writing- Exhibits strong verbal and written communication skills
-description: Proficient in manuscript preparation
-description: Relationship Building- Builds relationships with clients and co-workers
-description: Team player that is focused on project success and team understanding
-description: Interdisciplinary Team Collaboration- Collaborated effectively with interdisciplinary professionals (neurologists, neuropsychologists, clinical psychologists, care-team, and social workers
-description: Trauma-informed Care-Provides support to individuals with a history of trauma (including but not limited to Veterans)
-description: Care Coordination- Coordinates care for comprehensive client support, Veteran referrals in MCI
-description: Ethical Practice- Adheres to ethical guidelines within research and clinical settings
-description: Data Analysis- [1] Conducts data analysis using excel, SPSS and R [2]Create graphs, charts, tables, data cleaning, and receiver operating characteristics for manuscript and presentations [3] knows coding relitavly well (at least enough to make this website!)
-description: Professional Development- Actively presents at academic and national conferences
-description: Medical Chart Familiarity- [1]Reviews medical charts, reviews neuropsychological testing notes, and upcoming appointments; [2]Maintains patient confidentiality
-description: Administers and scores neuropsychological assessments for clinical and research use
+  - title: Professional Skills
+    description:
+      - Active Listening – Demonstrates strong active listening skills in research and care sessions
+      - Communication and Writing – Exhibits strong verbal and written communication skills
+      - Proficient in manuscript preparation
+      - Relationship Building – Builds relationships with clients and co-workers
+      - Team player focused on project success and team understanding
+      - Interdisciplinary Team Collaboration – Collaborated effectively with interdisciplinary professionals (neurologists, neuropsychologists, clinical psychologists, care team, and social workers)
+      - Trauma-Informed Care – Provides support to individuals with a history of trauma (including but not limited to Veterans)
+      - Care Coordination – Coordinates care for comprehensive client support, Veteran referrals in MCI
+      - Ethical Practice – Adheres to ethical guidelines within research and clinical settings
+      - Data Analysis – Conducts data analysis using Excel, SPSS, and R; creates graphs, charts, tables, data cleaning, and ROC analyses for manuscripts and presentations; knows coding relatively well (at least enough to make this website!)
+      - Professional Development – Actively presents at academic and national conferences
+      - Medical Chart Familiarity – Reviews medical charts, neuropsychological testing notes, and upcoming appointments; maintains patient confidentiality
+      - Administers and scores neuropsychological assessments for clinical and research use
 
 
 

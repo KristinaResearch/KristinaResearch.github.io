@@ -3,6 +3,7 @@ listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 
 contents:
-  - title: Self-directed projects
-    description: Independent MRI exploratory analysis. Performed all aspects of project and presented virtually at AAIC "https://youtu.be/97CphAGynGg"
-    description: Proposed research idea using Seddon Lab dataset "Genetic, Pharmacologic, and Inflammatory Determinants of Age-related Macular Degeneration Risk in Alzheimer’s Disease:Interactions Among Memory Medications, Immunosuppressants, and Calcium Regulation." Conducted comprehensive literature review and initiated steps to launch the project.
+  - title: Self-directed Projects
+    description:
+      - Independent MRI exploratory analysis. Performed all aspects of project and presented virtually at AAIC: [https://youtu.be/97CphAGynGg](https://youtu.be/97CphAGynGg)
+      - Proposed research idea using Seddon Lab dataset: “Genetic, Pharmacologic, and Inflammatory Determinants of Age-related Macular Degeneration Risk in Alzheimer’s Disease: Interactions Among Memory Medications, Immunosuppressants, and Calcium Regulation.” Conducted comprehensive literature review and initiated steps to launch the project.
