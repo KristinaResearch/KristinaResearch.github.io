@@ -1,6 +1,7 @@
 title: Kristina Morreale Personal Website
 profile_img: /assets/img/image.png
 icon_img: /assets/img/icon.webp
+globe_img: /assets/img/globe.svg
 
 name: "Kristina Morreale"
 job: "Clinical Research Coordinator III"
@@ -9,7 +10,7 @@ job: "Clinical Research Coordinator III"
 
 email: "kmorr10@unh.newhaven.edu"
 linkedin_username: "kristina-morreale-research/"
-address: "https://www.researchgate.net/profile/Kristina-Morreale"
+globe_img: "https://www.researchgate.net/profile/Kristina-Morreale"
 youtube_username: "/97CphAGynGg"
 blog_url: "Morreale CV 2025.pdf"
 
