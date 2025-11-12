@@ -1,14 +1,17 @@
-  title: Kristina Morreale Personal Website
-profile_img: /assets/img/profile.webp
+title: Title of your CV site
+profile_img: /assets/img/image.png
 icon_img: /assets/img/icon.webp
 
 name: "Kristina Morreale"
-job: "Clinical Research Coordinator III"
+job: "Clinical Reserach Coordinator III"
 
-email: Kmorr10@unh.newhaven.edu
+
+
+email: kmorr10@unh.newhaven.edu
 linkedin_username: https://www.linkedin.com/in/kristina-morreale-research/
+facebook_username: facebook
 youtube_username: https://youtu.be/97CphAGynGg
-blog_url: https://github.com/Kristina.Research/Kristina.Research.github.io/raw/main/Morreale%20CV%202025.pdf
+blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
@@ -23,4 +26,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
