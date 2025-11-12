@@ -27,6 +27,14 @@
     <div class="profile-zone">
       <img class="profile-img" src="{{ site.profile_img | prepend: site.baseurl }}" alt="My Photo">
       <ul class="personal-info">
+        {% if site.researchgate_url %}
+  <li>
+    <a aria-label="ResearchGate Profile" href="{{ site.researchgate_url }}" target="_blank">
+      <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="ResearchGate">
+      <div><span>ResearchGate</span></div>
+    </a>
+  </li>
+{% endif %}
         {% if site.phone_number %}
         <li><a aria-label="My Phone">
           <img src="{{ '/assets/img/phone.svg' | prepend: site.baseurl }}" alt="My Phone Number">
