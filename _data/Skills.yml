@@ -1,64 +1,9 @@
 subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
-
 contents:
-  - title: IMAGING MODALITIES
-    description:
-      - Functional Magnetic Resonance Imaging (fMRI)
+  - title: Imaging Modalities
+    description: "Functional Magnetic Resonance Imaging (fMRI)
       - Electroencephalography (EEG)
-      - Ophthalmic imaging modalities (e.g. OCTs, fundus)
-
-  - title: NEUROPSYCHOLOGICAL ASSESSMENTS
-    description:
-      - Snellen eye chart
-      - Ohio State University Positive and Negative Affect Schedule (PANAS)
-      - Test of Memory Malingering (TOMM)
-      - Mini Mental Status Exam (MMSE)
-      - CERAD Word List Memory Form (CERAD)
-      - Trail Making
-      - Verbal Fluency (FAS)
-      - Category Fluency
-      - Boston Naming Test (BNT)
-      - Word Association (WTAR)
-      - Judgement of Line Orientation (JOLO)
-      - Ohio State University TBI Identification Method / Neurobehavioral Symptom Inventory (NSI)
-      - Pittsburgh Sleep Quality Index / PTSD Checklist for DSM-5 (PCL-5) with Criterion A / Beck Depression Inventory (BDI)
-      - Beck Anxiety Inventory (BAI)
-      - Short Michigan Alcohol Screening Test (SMAST)
-      - Geriatric Anxiety Inventory (GAI)
-      - Geriatric Depression Scale (GDS)
-      - Montreal Cognitive Assessment (MOCA)
-      - Wide Range Achievement Test 4th Edition (WRAT-4)
-      - Craft Story 21 (recall & delayed recall)
-      - Benson Complex Figure
-      - Uniform Data Set Number Span Test
-      - Multilingual Naming Test (MINT)
-      - Neuropsychological Assessment Battery (NAB)
-      - Symbol Digit Modalities
-      - Questionnaires
-      - Family History
-      - Medical History
-      - Health History
-      - Perceptions of Inclusion Questionnaire
-      - Activities of Daily Living
-      - Functional Activities Questionnaire
-
-  - title: Professional Skills
-    description:
-      - Active Listening – Demonstrates strong active listening skills in research and care sessions
-      - Communication and Writing – Exhibits strong verbal and written communication skills
-      - Proficient in manuscript preparation
-      - Relationship Building – Builds relationships with clients and co-workers
-      - Team player focused on project success and team understanding
-      - Interdisciplinary Team Collaboration – Collaborated effectively with interdisciplinary professionals (neurologists, neuropsychologists, clinical psychologists, care team, and social workers)
-      - Trauma-Informed Care – Provides support to individuals with a history of trauma (including but not limited to Veterans)
-      - Care Coordination – Coordinates care for comprehensive client support, Veteran referrals in MCI
-      - Ethical Practice – Adheres to ethical guidelines within research and clinical settings
-      - Data Analysis – Conducts data analysis using Excel, SPSS, and R; creates graphs, charts, tables, data cleaning, and ROC analyses for manuscripts and presentations; knows coding relatively well (at least enough to make this website!)
-      - Professional Development – Actively presents at academic and national conferences
-      - Medical Chart Familiarity – Reviews medical charts, neuropsychological testing notes, and upcoming appointments; maintains patient confidentiality
-      - Administers and scores neuropsychological assessments for clinical and research use
-
-
+      - Ophthalmic imaging modalities (e.g. OCTs, fundus)"
 
