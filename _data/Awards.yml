@@ -3,10 +3,6 @@ listing-order: 1
 icon: "/assets/img/globe.svg"
 contents:
   - title: About me
-    description: >
-I am a researcher exploring the intersections of cognition, perception, and affect. I am particularly interested in how perceptual processes shape memory as connected to individual perspectives and experiences. 
-I am eager to further develop my skills in a PhD program, with the ultimate goal of contributing to the greater cognitive field and supporting individuals who experience affective and memory difficulties, such as those that can follow a head injury.
-Through my work on projects pertaining to trauma, psychopathology, vision, and neural mechanisms within various populations across the life span (children, Veterans, and individuals with varying mental health concerns) I have better come to understand the brain and body's physiological connectedness with emotional experiences and how these systems influence cognition, perception, and memory across development and diverse populations.
+    description: I am a researcher exploring the intersections of cognition, perception, and affect. I am particularly interested in how perceptual processes shape memory as connected to individual perspectives and experiences.  I am eager to further develop my skills in a PhD program, with the ultimate goal of contributing to the greater cognitive field and supporting individuals who experience affective and memory difficulties, such as those that can follow a head injury. Through my work on projects pertaining to trauma, psychopathology, vision, and neural mechanisms within various populations across the life span (children, Veterans, and individuals with varying mental health concerns) I have better come to understand the brain and body's physiological connectedness with emotional experiences and how these systems influence cognition, perception, and memory across development and diverse populations.
   -title: Outside of the lab
-  description: >
-Outside of the lab, I am an artist and self-taught musician who enjoys painting as well as playing music on the flute, guitar, piano, violin and (newly learned) bass guitar.
+    description: Outside of the lab, I am an artist and self-taught musician who enjoys painting as well as playing music on the flute, guitar, piano, violin and (newly learned) bass guitar.
