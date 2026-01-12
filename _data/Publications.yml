@@ -2,6 +2,10 @@ subject: Publications
 listing-order: 5
 icon: "/assets/img/flask.svg"
 contents:
+  - title: Manuscripts in Progress
+    ref: 
+      - "[1] Morreale, K.*, Delfin, L*, & Seddon, J. (Manuscript in preparation). Genetic, Pharmacologic, and Inflammatory Determinants of Age-related Macular Degeneration Risk in Alzheimer’s Disease: Interactions Among Memory Medications, Immunosuppressants, and Calcium Regulation."
+      - "[2] Morreale, K. (Thesis in preparation). Perceptual bias and consistency across motivational contexts."
   - title: Journal
     ref: 
       - "[1] Cotter, G., *Morreale, K., Valdegas, A., Fish, M., Beebe, R., Damion, G., Stover, C., & Tseng, W. (2024). Associations between trauma exposure and irritability within the family unit: A network approach. Journal of Child Psychology and Psychiatry. [https://doi.org/10.1111/jcpp.13998](https://doi.org/10.1111/jcpp.13998)"
