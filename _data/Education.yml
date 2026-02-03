@@ -3,6 +3,8 @@ listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Regis College, MA in Counseling
+    description: 
+      - "_Thesis Track_"
     date: Aug 2024 - present
     
   - title: Univeristy of New Haven, BA in Psychology
